@@ -1,4 +1,4 @@
-ST "Adele",
+STUDENT_NAMES["Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
