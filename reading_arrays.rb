@@ -1,4 +1,4 @@
-STUDENT_NAMES["Adele",
+def STUDENT_NAMES["Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
