@@ -1,5 +1,5 @@
 STUDENT_NAMES = [
-  "Adele",
+ ( "Adele"),
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
